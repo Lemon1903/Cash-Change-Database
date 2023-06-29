@@ -1,16 +1,15 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+  "stocks": {
+    "1": 1245,
+    "5": 5,
+    "10": 178,
+    "50": 6,
+    "100": 99,
+    "200": 1,
+    "500": 44,
+    "1000": 6,
+    "20b": 34,
+    "20c": 68
+  },
+  "transactions": []
 }
